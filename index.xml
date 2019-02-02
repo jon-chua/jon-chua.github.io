@@ -43,7 +43,9 @@ $$ \sum_{n=1}^{\infty} 2^{-n} = 1 $$
       
       <guid>https://jon-chua.github.io/portfolio/</guid>
       <description>Portfolio Hack&amp;amp;Roll 2019: NUS Exams Countdown A simple exam countdown app for Hack&amp;amp;Roll 2019, my first hackathon.
- Github Repo  Devpost Submission</description>
+ Github Repo Devpost Submission
+Todo List I created a simple todo list in Ruby on Rails as a CVWO (Computing for Voluntary Welfare Organisations) Assignment.
+ Github Repo Heroku Deployment</description>
     </item>
     
   </channel>
