@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jon Chua</title>
-    <link>https://jon-chua.github.io/</link>
+    <link>https://jonchua.dev/</link>
     <description>Recent content on Jon Chua</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Sun, 08 Jan 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://jon-chua.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://jonchua.dev/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Theme Demo</title>
-      <link>https://jon-chua.github.io/posts/theme-demo/</link>
+      <link>https://jonchua.dev/posts/theme-demo/</link>
       <pubDate>Sun, 08 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://jon-chua.github.io/posts/theme-demo/</guid>
+      <guid>https://jonchua.dev/posts/theme-demo/</guid>
       <description>Style Demo h1 Heading h2 Heading h3 Heading h4 Heading h5 Heading h6 Heading This is bold text
 This is bold text
 This is italic text
@@ -29,29 +29,29 @@ $$ \sum_{n=1}^{\infty} 2^{-n} = 1 $$
     
     <item>
       <title></title>
-      <link>https://jon-chua.github.io/about/</link>
+      <link>https://jonchua.dev/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://jon-chua.github.io/about/</guid>
+      <guid>https://jonchua.dev/about/</guid>
       <description> About Me Modules Taken in NUS School of Computing 2019 / 2020 Semester 1 (Planned)  CS2101: Effective Communication for Computing Professionals CS2103T: Software Engineering CS2105/6: Introduction to Computer Networks / Introduction to Operating Systems ST2334: Probability and Statistics GEH1036: Living with Mathematics  Teaching Assistant (TA) Roles (Planned)
  CS1101S: Programming Methodology CS1010E: Programming Methodology  2018 / 2019 Summer  Orbital 2019 Source Academy Summer Programme: Frontend Team Freshmen Orientation Week (FOW) 2019: Prologs  2018 / 2019 Semester 2  CS1010R: Programming Methodology CS2030: Programming Methodology II CS2040: Data Structures and Algorithms CS2100: Computer Organization IS1103: IS Innovations in Organisations and Society GER1000: Quantitative Reasoning GEQ1000: Asking Questions GES1021: Natural Heritage of Singapore  2018 / 2019 Semester 1  CS1101S: Programming Methodology CS1231: Discrete Structures MA1101R: Linear Algebra I MA1521: Calculus for Computing GET1020: Darwin and Evolution  </description>
     </item>
     
     <item>
       <title></title>
-      <link>https://jon-chua.github.io/contact/</link>
+      <link>https://jonchua.dev/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://jon-chua.github.io/contact/</guid>
+      <guid>https://jonchua.dev/contact/</guid>
       <description> Contact Feel free to contact me at </description>
     </item>
     
     <item>
       <title></title>
-      <link>https://jon-chua.github.io/portfolio/</link>
+      <link>https://jonchua.dev/portfolio/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://jon-chua.github.io/portfolio/</guid>
+      <guid>https://jonchua.dev/portfolio/</guid>
       <description>Portfolio Hack&amp;amp;Roll 2019: NUS Exams Countdown A simple exam countdown app for Hack&amp;amp;Roll 2019, my first hackathon.
  Github Repo Devpost Submission
 Todo List I created a simple todo list in Ruby on Rails as a CVWO (Computing for Voluntary Welfare Organisations) Assignment.

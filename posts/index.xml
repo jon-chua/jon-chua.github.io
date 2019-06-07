@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Jon Chua</title>
-    <link>https://jon-chua.github.io/posts/</link>
+    <link>https://jonchua.dev/posts/</link>
     <description>Recent content in Posts on Jon Chua</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Sun, 08 Jan 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://jon-chua.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://jonchua.dev/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Theme Demo</title>
-      <link>https://jon-chua.github.io/posts/theme-demo/</link>
+      <link>https://jonchua.dev/posts/theme-demo/</link>
       <pubDate>Sun, 08 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://jon-chua.github.io/posts/theme-demo/</guid>
+      <guid>https://jonchua.dev/posts/theme-demo/</guid>
       <description>Style Demo h1 Heading h2 Heading h3 Heading h4 Heading h5 Heading h6 Heading This is bold text
 This is bold text
 This is italic text
