@@ -52,12 +52,13 @@ $$ \sum_{n=1}^{\infty} 2^{-n} = 1 $$
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://jonchua.dev/portfolio/</guid>
-      <description>Portfolio Orbital 2019 annotate.me: The best web interface for universal object detection labelling
- Github Repo
+      <description>Portfolio Orbital 2019: Independent Software Development Project Level of Achievement: Apollo 11
+annotate.me: The best web interface for universal object detection labelling
+Implemented Features:
+ Multi-image file upload Sleek annotation interface with crosshair and keyboard shortcuts Multi-user image annotation Annotation file download   Github Repo
+Application Screenshots
 Hack&amp;amp;Roll 2019: NUS Exams Countdown A simple exam countdown app for Hack&amp;amp;Roll 2019, my first hackathon.
- Github Repo Devpost Submission
-Todo List I created a simple todo list in Ruby on Rails as a CVWO (Computing for Voluntary Welfare Organisations) Assignment.
- Github Repo Heroku Deployment</description>
+ Github Repo Devpost Submission</description>
     </item>
     
   </channel>
