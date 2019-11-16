@@ -5,13 +5,11 @@
   <url>
     <loc>https://jonchua.dev/</loc>
     <lastmod>2017-01-08T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://jonchua.dev/posts/</loc>
     <lastmod>2017-01-08T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -36,12 +34,10 @@
   
   <url>
     <loc>https://jonchua.dev/categories/</loc>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://jonchua.dev/tags/</loc>
-    <priority>0</priority>
   </url>
   
 </urlset>
