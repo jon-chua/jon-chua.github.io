@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jon Chua</title>
@@ -17,7 +17,7 @@
       <pubDate>Sun, 08 Jan 2017 00:00:00 +0000</pubDate>
       
       <guid>https://jonchua.dev/posts/theme-demo/</guid>
-      <description>Style Demo h1 Heading h2 Heading h3 Heading h4 Heading h5 Heading h6 Heading This is bold text
+      <description>Style Demo h1 Heading h2 Heading h3 Heading h4 Heading h5 Heading h6 Heading  This is bold text
 This is bold text
 This is italic text
 This is italic text
@@ -33,8 +33,8 @@ $$ \sum_{n=1}^{\infty} 2^{-n} = 1 $$
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://jonchua.dev/about/</guid>
-      <description> About Me Modules Taken in NUS School of Computing 2019 / 2020 Semester 1  CS2101: Effective Communication for Computing Professionals CS2103T: Software Engineering CS2106: Introduction to Operating Systems CS2107: Introduction to Information Security GEH1036: Living with Mathematics ST2334: Probability and Statistics  Teaching Assistant (TA) Roles
- CS2040: Data Structures and Algorithms CS1101S: Programming Methodology CS1010E: Programming Methodology  2018 / 2019 Summer  CP2106: Orbital: Apollo 11 Source Academy Summer Programme: Frontend Testing Team Freshmen Orientation Week (FOW) 2019: Prologs Member  2018 / 2019 Semester 2  CS1010R: Programming Methodology CS2030: Programming Methodology II CS2040: Data Structures and Algorithms CS2100: Computer Organization IS1103: IS Innovations in Organisations and Society GER1000: Quantitative Reasoning GEQ1000: Asking Questions GES1021: Natural Heritage of Singapore  2018 / 2019 Semester 1  CS1101S: Programming Methodology CS1231: Discrete Structures MA1101R: Linear Algebra I MA1521: Calculus for Computing GET1020: Darwin and Evolution  </description>
+      <description>About Me  Modules Taken in NUS School of Computing 2019 / 2020 Semester 2 (Tentative)  CS2105: Introduction to Computer Networks CS3217: Software Engineering on Modern Application Platforms CS3230: Design and Analysis of Algorithms CS3243: Introduction to Artificial Intelligence  Teaching Assistant (TA) Roles
+ CS2040: Data Structures and Algorithms  2019 / 2020 Semester 1  CS2101: Effective Communication for Computing Professionals CS2103T: Software Engineering CS2106: Introduction to Operating Systems CS2107: Introduction to Information Security GEH1036: Living with Mathematics ST2334: Probability and Statistics  Teaching Assistant (TA) Roles</description>
     </item>
     
     <item>
@@ -43,7 +43,7 @@ $$ \sum_{n=1}^{\infty} 2^{-n} = 1 $$
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://jonchua.dev/contact/</guid>
-      <description> Contact Feel free to contact me at </description>
+      <description>Contact Feel free to contact me at </description>
     </item>
     
     <item>
@@ -52,11 +52,12 @@ $$ \sum_{n=1}^{\infty} 2^{-n} = 1 $$
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://jonchua.dev/portfolio/</guid>
-      <description>Portfolio $aveNUS - Software Engineer  Github Repo |  Project Portfolio Page
+      <description>Portfolio  $aveNUS - Software Engineer Github Repo | Project Portfolio Page
 $aveNUS allows NUS students to track their food expenses and savings, get food recommendations and more!
 Implemented Features:
  A recommendation system that allows users to get a list of recommended food items based on factors such as their likes/dislikes, purchase history and specified budget.  Application Screenshots
-Orbital 2019: Independent Software Development Project  Github Repo</description>
+ Orbital 2019: Independent Software Development Project Github Repo
+Level of Achievement: Apollo 11 (Highest possible)</description>
     </item>
     
   </channel>
