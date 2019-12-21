@@ -1,0 +1,10 @@
+---
+layout: default
+---
+
+<div class="col-lg-10 mx-auto mt-5 article">
+  {{ content }}
+  {% if page.url contains "projects" %}
+    <a href="/projects" class="btn px-3 mt-4 btn-secondary" role="button">Back</a>
+  {% endif %}
+</div>
