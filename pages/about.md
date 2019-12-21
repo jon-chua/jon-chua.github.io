@@ -109,6 +109,7 @@ My interests are in Software Engineering and Artifical Intelligence.
         	<li><strong>CS1010R</strong>: Programming Methodology</li>
         	<li><strong>CS2030</strong>: Programming Methodology II</li>
         	<li><strong>CS2040</strong>: Data Structures and Algorithms</li>
+          <li><strong>CS2100</strong>: Computer Organisation</li>
         	<li><strong>IS1103</strong>: IS Innovations in Organisations and Society</li>
         	<li><strong>GER1000</strong>: Quantitative Reasoning</li>
         	<li><strong>GEQ1000</strong>: Asking Questions</li>
