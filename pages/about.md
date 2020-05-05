@@ -26,15 +26,39 @@ My interests are in Software Engineering and Artifical Intelligence.
 
 <br />
 <div id="accordion">
+    <div class="card">
+    <div class="card-header" id="headingSix">
+      <h5 class="mb-0">
+        <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseSix" aria-expanded="true" aria-controls="collapseSix">
+          2020 / 2021 Semester 1 (Tentative)
+        </button>
+      </h5>
+    </div>
+    <div id="collapseSix" class="collapse show" aria-labelledby="headingSix" data-parent="#accordion">
+      <div class="card-body">
+         <ol>
+          <li><strong>CS2104</strong>: Programming Language Concepts</li>
+          <li><strong>CS3216</strong>: Software Product Engineering for Digital Markets</li>
+          <li><strong>CS3219</strong>: Software Engineering Principles and Patterns</li>
+          <li><strong>CS3235</strong>: Computer Security</li>
+          <li><strong>CS4211</strong>: Formal Methods for Software Engineering</li>
+        </ol>
+        <h4>Teaching Assistant Roles:</h4>
+        <ol>
+          <li>Unconfirmed.</li>
+        </ol>
+      </div>
+    </div>
+  </div>
   <div class="card">
     <div class="card-header" id="headingFive">
       <h5 class="mb-0">
         <button class="btn btn-link" data-toggle="collapse" data-target="#collapseFive" aria-expanded="true" aria-controls="collapseFive">
-          2019 / 2020 Semester 2 (Tentative)
+          2019 / 2020 Semester 2
         </button>
       </h5>
     </div>
-    <div id="collapseFive" class="collapse show" aria-labelledby="headingFive" data-parent="#accordion">
+    <div id="collapseFive" class="collapse" aria-labelledby="headingFive" data-parent="#accordion">
       <div class="card-body">
          <ol>
         	<li><strong>CS2105</strong>: Introduction to Computer Networks</li>
