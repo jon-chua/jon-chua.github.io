@@ -45,7 +45,8 @@ My interests are in Software Engineering and Artifical Intelligence.
         </ol>
         <h4>Teaching Assistant Roles:</h4>
         <ol>
-          <li>Unconfirmed.</li>
+          <li><strong>CS2040S</strong>: Data Structures and Algorithms</li>
+          <li><strong>CS2103T</strong>: Software Engineering</li>
         </ol>
       </div>
     </div>
