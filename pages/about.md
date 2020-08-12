@@ -38,6 +38,7 @@ My interests are in Software Engineering and Artifical Intelligence.
       <div class="card-body">
          <ol>
           <li><strong>CS2102</strong>: Database Systems</li>
+          <li><strong>CS2104</strong>: Programming Language Concepts</li>
           <li><strong>CS3216</strong>: Software Product Engineering for Digital Markets</li>
           <li><strong>CS3219</strong>: Software Engineering Principles and Patterns</li>
           <li><strong>CS3235</strong>: Computer Security</li>
