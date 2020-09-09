@@ -18,6 +18,10 @@ My interests are in Software Engineering and Artifical Intelligence.
 {% include about/skills.html title="Other Skills" source=site.data.other-skills %}
 </div> -->
 
+<!-- <div class="row">
+{% include about/timeline.html %}
+</div> -->
+
 ---
 
 <br />
@@ -30,7 +34,7 @@ My interests are in Software Engineering and Artifical Intelligence.
     <div class="card-header" id="headingSix">
       <h5 class="mb-0">
         <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseSix" aria-expanded="true" aria-controls="collapseSix">
-          2020 / 2021 Semester 1 (Tentative)
+          2020 / 2021 Semester 1
         </button>
       </h5>
     </div>
@@ -38,7 +42,6 @@ My interests are in Software Engineering and Artifical Intelligence.
       <div class="card-body">
          <ol>
           <li><strong>CS2102</strong>: Database Systems</li>
-          <li><strong>CS2104</strong>: Programming Language Concepts</li>
           <li><strong>CS3216</strong>: Software Product Engineering for Digital Markets</li>
           <li><strong>CS3219</strong>: Software Engineering Principles and Patterns</li>
           <li><strong>CS3235</strong>: Computer Security</li>

@@ -30,7 +30,8 @@ layout: page
 
 {{ content }}
 
-<footer>
-  This Article is <b>open source</b>. Noticed a typo? </br>
-  Or something unclear? Improve it on {% github_edit_link "GitHub" %}.
-</footer>
+<hr />
+
+{% if page.url contains "articles" %}
+<a href="/articles" class="btn px-3 mt-4 btn-secondary" role="button">Back</a>
+{% endif %}
