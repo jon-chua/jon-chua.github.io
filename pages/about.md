@@ -9,7 +9,7 @@ weight: 3
 
 Hi I am **{{ site.author.name }}**!<br>
 
-I am currently a second year student studying Computer Science in National University of Singapore (NUS).
+I am currently a third year student studying Computer Science in National University of Singapore (NUS).
 
 My interests are in Software Engineering and Artifical Intelligence.
 
@@ -30,15 +30,41 @@ My interests are in Software Engineering and Artifical Intelligence.
 
 <br />
 <div id="accordion">
-    <div class="card">
+	<div class="card">
+    <div class="card-header" id="headingSeven">
+      <h5 class="mb-0">
+        <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseSeven" aria-expanded="true" aria-controls="collapseSeven">
+          2020 / 2021 Semester 2 (Tentative)
+        </button>
+      </h5>
+    </div>
+    <div id="collapseSeven" class="collapse show" aria-labelledby="headingSeven" data-parent="#accordion">
+      <div class="card-body">
+         <ol>
+          <li><strong>CS4218</strong>: Software Testing</li>
+          <li><strong>CS4248</strong>: Natural Language Processing</li>
+          <li><strong>CS5224</strong>: Cloud Computing</li>
+          <li><strong>CS5232</strong>: Formal Specification and Design Techniques</li>
+          <li><strong>CS5331</strong>: Web Security</li>
+          <li><strong>ST2137</strong>: Computer Aided Data Analysis</li>
+        </ol>
+        <h4>Teaching Assistant Roles (Tentative):</h4>
+        <ol>
+          <li><strong>CS2040</strong>: Data Structures and Algorithms</li>
+          <li><strong>CS2103T</strong>: Software Engineering</li>
+        </ol>
+      </div>
+    </div>
+  </div>
+  <div class="card">
     <div class="card-header" id="headingSix">
       <h5 class="mb-0">
-        <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseSix" aria-expanded="true" aria-controls="collapseSix">
+        <button class="btn btn-link" data-toggle="collapse" data-target="#collapseSix" aria-expanded="true" aria-controls="collapseSix">
           2020 / 2021 Semester 1
         </button>
       </h5>
     </div>
-    <div id="collapseSix" class="collapse show" aria-labelledby="headingSix" data-parent="#accordion">
+    <div id="collapseSix" class="collapse" aria-labelledby="headingSix" data-parent="#accordion">
       <div class="card-body">
          <ol>
           <li><strong>CS2102</strong>: Database Systems</li>
