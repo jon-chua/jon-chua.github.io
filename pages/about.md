@@ -41,17 +41,19 @@ My interests are in Software Engineering and Artifical Intelligence.
     <div id="collapseSeven" class="collapse show" aria-labelledby="headingSeven" data-parent="#accordion">
       <div class="card-body">
          <ol>
+          <li><strong>CS3249</strong>: User Interface Development</li>
           <li><strong>CS4218</strong>: Software Testing</li>
           <li><strong>CS4248</strong>: Natural Language Processing</li>
-          <li><strong>CS5224</strong>: Cloud Computing</li>
-          <li><strong>CS5232</strong>: Formal Specification and Design Techniques</li>
+          <li><strong>CS5228</strong>: Knowledge Discovery and Data Mining</li>
+          <li><strong>CS5321</strong>: Network Security</li>
           <li><strong>CS5331</strong>: Web Security</li>
           <li><strong>ST2137</strong>: Computer Aided Data Analysis</li>
         </ol>
-        <h4>Teaching Assistant Roles (Tentative):</h4>
+        <h4>Teaching Assistant Roles:</h4>
         <ol>
           <li><strong>CS2040</strong>: Data Structures and Algorithms</li>
           <li><strong>CS2103T</strong>: Software Engineering</li>
+          <li><strong>CS3217</strong>: Software Engineering on Modern Application Platforms</li>
         </ol>
       </div>
     </div>
