@@ -45,7 +45,6 @@ My interests are in Software Engineering and Artifical Intelligence.
           <li><strong>CS4218</strong>: Software Testing</li>
           <li><strong>CS4248</strong>: Natural Language Processing</li>
           <li><strong>CS5228</strong>: Knowledge Discovery and Data Mining</li>
-          <li><strong>CS5321</strong>: Network Security</li>
           <li><strong>CS5331</strong>: Web Security</li>
           <li><strong>ST2137</strong>: Computer Aided Data Analysis</li>
         </ol>
