@@ -9,7 +9,7 @@ weight: 3
 
 Hi I am **{{ site.author.name }}**!<br>
 
-I am currently a third year student studying Computer Science in National University of Singapore (NUS).
+I am currently a final year student studying Computer Science in National University of Singapore (NUS).
 
 My interests are in Software Engineering and Artifical Intelligence.
 
@@ -30,15 +30,39 @@ My interests are in Software Engineering and Artifical Intelligence.
 
 <br />
 <div id="accordion">
-	<div class="card">
-    <div class="card-header" id="headingSeven">
+  <div class="card">
+    <div class="card-header" id="headingEight">
       <h5 class="mb-0">
-        <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseSeven" aria-expanded="true" aria-controls="collapseSeven">
-          2020 / 2021 Semester 2 (Tentative)
+        <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseEight" aria-expanded="true" aria-controls="collapseEight">
+          2021 / 2022 Semester 1 (Tentative)
         </button>
       </h5>
     </div>
-    <div id="collapseSeven" class="collapse show" aria-labelledby="headingSeven" data-parent="#accordion">
+    <div id="collapseEight" class="collapse show" aria-labelledby="headingEight" data-parent="#accordion">
+      <div class="card-body">
+         <ol>
+          <li><strong>CP4101</strong>: B.Comp. Dissertation</li>
+          <li><strong>CS3210</strong>: Parallel Computing</li>
+          <li><strong>CS3244</strong>: Machine Learning</li>
+          <li><strong>CS5340</strong>: Uncertainty Modelling in AI</li>
+        </ol>
+        <h4>Teaching Assistant Roles:</h4>
+        <ol>
+          <li><strong>CS2040S</strong>: Data Structures and Algorithms</li>
+          <li><strong>CS2103T</strong>: Software Engineering</li>
+        </ol>
+      </div>
+    </div>
+  </div>
+  <div class="card">
+    <div class="card-header" id="headingSeven">
+      <h5 class="mb-0">
+        <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseSeven" aria-expanded="true" aria-controls="collapseSeven">
+          2020 / 2021 Semester 2
+        </button>
+      </h5>
+    </div>
+    <div id="collapseSeven" class="collapse" aria-labelledby="headingSeven" data-parent="#accordion">
       <div class="card-body">
          <ol>
           <li><strong>CS3249</strong>: User Interface Development</li>
@@ -93,15 +117,15 @@ My interests are in Software Engineering and Artifical Intelligence.
     <div id="collapseFive" class="collapse" aria-labelledby="headingFive" data-parent="#accordion">
       <div class="card-body">
          <ol>
-        	<li><strong>CS2105</strong>: Introduction to Computer Networks</li>
-        	<li><strong>CS3217</strong>: Software Engineering on Modern Application Platforms</li>
-        	<li><strong>CS3230</strong>: Design and Analysis of Algorithms</li>
-        	<li><strong>CS3243</strong>: Introduction to Artificial Intelligence</li>
-        	<li><strong>ES2660</strong>: Communicating in the Information Age</li>
+          <li><strong>CS2105</strong>: Introduction to Computer Networks</li>
+          <li><strong>CS3217</strong>: Software Engineering on Modern Application Platforms</li>
+          <li><strong>CS3230</strong>: Design and Analysis of Algorithms</li>
+          <li><strong>CS3243</strong>: Introduction to Artificial Intelligence</li>
+          <li><strong>ES2660</strong>: Communicating in the Information Age</li>
         </ol>
         <h4>Teaching Assistant Roles:</h4>
         <ol>
-        	<li><strong>CS2040</strong>: Data Structures and Algorithms</li>
+          <li><strong>CS2040</strong>: Data Structures and Algorithms</li>
         </ol>
       </div>
     </div>
@@ -117,18 +141,18 @@ My interests are in Software Engineering and Artifical Intelligence.
     <div id="collapseFour" class="collapse" aria-labelledby="headingFour" data-parent="#accordion">
       <div class="card-body">
          <ol>
-        	<li><strong>CS2101</strong>: Effective Communication for Computing Professionals</li>
-        	<li><strong>CS2103T</strong>: Software Engineering</li>
-        	<li><strong>CS2106</strong>: Introduction to Operating Systems</li>
-        	<li><strong>CS2107</strong>: Introduction to Information Security</li>
-        	<li><strong>GEH1036</strong>: Living with Mathematics</li>
-   			<li><strong>ST2334</strong>: Probability and Statistics</li>
+          <li><strong>CS2101</strong>: Effective Communication for Computing Professionals</li>
+          <li><strong>CS2103T</strong>: Software Engineering</li>
+          <li><strong>CS2106</strong>: Introduction to Operating Systems</li>
+          <li><strong>CS2107</strong>: Introduction to Information Security</li>
+          <li><strong>GEH1036</strong>: Living with Mathematics</li>
+        <li><strong>ST2334</strong>: Probability and Statistics</li>
         </ol>
         <h4>Teaching Assistant Roles:</h4>
         <ol>
-        	<li><strong>CS2040</strong>: Data Structures and Algorithms</li>
-        	<li><strong>CS1101S</strong>: Programming Methodology</li>
-        	<li><strong>CS1010E</strong>: Programming Methodology</li>
+          <li><strong>CS2040</strong>: Data Structures and Algorithms</li>
+          <li><strong>CS1101S</strong>: Programming Methodology</li>
+          <li><strong>CS1010E</strong>: Programming Methodology</li>
         </ol>
       </div>
     </div>
@@ -144,9 +168,9 @@ My interests are in Software Engineering and Artifical Intelligence.
     <div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#accordion">
       <div class="card-body">
          <ol>
-        	<li><strong>CP2106</strong>: Orbital</li>
-        	<li><strong>Source Academy Summer Programme</strong>: Frontend Testing Team</li>
-        	<li><strong>Freshmen Orientation Week (FOW) 2019</strong>: Prologs Member</li>
+          <li><strong>CP2106</strong>: Orbital</li>
+          <li><strong>Source Academy Summer Programme</strong>: Frontend Testing Team</li>
+          <li><strong>Freshmen Orientation Week (FOW) 2019</strong>: Prologs Member</li>
         </ol>
       </div>
     </div>
@@ -162,15 +186,15 @@ My interests are in Software Engineering and Artifical Intelligence.
     <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordion">
       <div class="card-body">
         <ol>
-        	<li><strong>CS1010R</strong>: Programming Methodology</li>
-        	<li><strong>CS2030</strong>: Programming Methodology II</li>
-        	<li><strong>CS2040</strong>: Data Structures and Algorithms</li>
+          <li><strong>CS1010R</strong>: Programming Methodology</li>
+          <li><strong>CS2030</strong>: Programming Methodology II</li>
+          <li><strong>CS2040</strong>: Data Structures and Algorithms</li>
           <li><strong>CS2100</strong>: Computer Organisation</li>
-        	<li><strong>IS1103</strong>: IS Innovations in Organisations and Society</li>
-        	<li><strong>GER1000</strong>: Quantitative Reasoning</li>
-        	<li><strong>GEQ1000</strong>: Asking Questions</li>
-        	<li><strong>GES1021</strong>: Natural Heritage of Singapore</li>
-		</ol>
+          <li><strong>IS1103</strong>: IS Innovations in Organisations and Society</li>
+          <li><strong>GER1000</strong>: Quantitative Reasoning</li>
+          <li><strong>GEQ1000</strong>: Asking Questions</li>
+          <li><strong>GES1021</strong>: Natural Heritage of Singapore</li>
+    </ol>
       </div>
     </div>
   </div>
@@ -184,13 +208,13 @@ My interests are in Software Engineering and Artifical Intelligence.
     </div>
     <div id="collapseOne" class="collapse" aria-labelledby="headingOne" data-parent="#accordion">
       <div class="card-body">
-      	<ol>
-        	<li><strong>CS1101S</strong>: Programming Methodology</li>
-        	<li><strong>CS1231</strong>: Discrete Structures</li>
-        	<li><strong>MA1101R</strong>: Linear Algebra I</li>
-        	<li><strong>MA1521</strong>: Calculus for Computing</li>
-        	<li><strong>GET1020</strong>: Darwin and Evolution</li>
-		</ol>
+        <ol>
+          <li><strong>CS1101S</strong>: Programming Methodology</li>
+          <li><strong>CS1231</strong>: Discrete Structures</li>
+          <li><strong>MA1101R</strong>: Linear Algebra I</li>
+          <li><strong>MA1521</strong>: Calculus for Computing</li>
+          <li><strong>GET1020</strong>: Darwin and Evolution</li>
+    </ol>
       </div>
     </div>
   </div>

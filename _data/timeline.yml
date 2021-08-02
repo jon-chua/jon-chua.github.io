@@ -1,21 +1,28 @@
+- title: Software Engineering Intern, AlphaLab Capital
+  from: May 2021
+  to: July 2021
+  description: Developed and tested a Python program to issue trades, currently trading over USD$5,000,000 volume per month for the GateIO exchange.
+               Implemented and deployed streaming of exchange data in Python and Cython using REST and Websockets, for AlphaLab's proprietary algorithms to gain
+               a view of the exchange's order book and state.
+
 - title: Teaching Assistant, National University of Singapore
-  from: August 2020 
+  from: August 2020
   to: May 2021
   description: Taught two modules, CS2040/S (Data Structures and Algorithms) and CS2103/T (Software Engineering).
 
 - title: Software Engineering Intern, Visa Singapore
-  from: May 2020 
+  from: May 2020
   to: July 2020
   description: Oversaw a team of 6 interns as a Scrum Master over 3 Agile sprints to propose an innovative solution to accelerate cash displacement.
                Spearheaded app development to help small businesses adjust to COVID-19 with a gamified promotions app, and advanced to the finals among 54 teams.
 
 - title: Teaching Assistant, National University of Singapore
-  from: August 2019 
+  from: August 2019
   to: May 2020
   description: Taught two modules, CS1101S (Programming Methodology) and CS2040 (Data Structures and Algorithms).
 
 - title: Source Academy Summer Programme (Frontend Testing), National University of Singapore
-  from: June 2019 
+  from: June 2019
   to: August 2019
   description: Increased total test coverage by 7% for the Source Academy frontend, used by over 600 freshmen per semester to learn Programming Methodology.
 
