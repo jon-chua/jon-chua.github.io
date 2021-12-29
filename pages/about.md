@@ -33,12 +33,35 @@ My interests are in Software Engineering and Artifical Intelligence.
   <div class="card">
     <div class="card-header" id="headingEight">
       <h5 class="mb-0">
-        <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseEight" aria-expanded="true" aria-controls="collapseEight">
-          2021 / 2022 Semester 1 (Tentative)
+        <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseNine" aria-expanded="true" aria-controls="collapseNine">
+          2021 / 2022 Semester 2 (Tentative)
         </button>
       </h5>
     </div>
-    <div id="collapseEight" class="collapse show" aria-labelledby="headingEight" data-parent="#accordion">
+    <div id="collapseNine" class="collapse show" aria-labelledby="headingEight" data-parent="#accordion">
+      <div class="card-body">
+         <ol>
+          <li><strong>CP4101</strong>: B.Comp. Dissertation</li>
+          <li><strong>CS4225</strong>: Big Data Systems For Data Science</li>
+          <li><strong>CS4231</strong>: Parallel And Distributed Algorithms</li>
+        </ol>
+        <h4>Teaching Assistant Roles:</h4>
+        <ol>
+          <li><strong>CS2040</strong>: Data Structures and Algorithms</li>
+          <li><strong>CS3213</strong>: Foundations of Software Engineering</li>
+        </ol>
+      </div>
+    </div>
+  </div>
+  <div class="card">
+    <div class="card-header" id="headingEight">
+      <h5 class="mb-0">
+        <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseEight" aria-expanded="true" aria-controls="collapseEight">
+          2021 / 2022 Semester 1
+        </button>
+      </h5>
+    </div>
+    <div id="collapseEight" class="collapse" aria-labelledby="headingEight" data-parent="#accordion">
       <div class="card-body">
          <ol>
           <li><strong>CP4101</strong>: B.Comp. Dissertation</li>
