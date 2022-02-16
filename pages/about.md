@@ -34,7 +34,7 @@ My interests are in Software Engineering and Artifical Intelligence.
     <div class="card-header" id="headingEight">
       <h5 class="mb-0">
         <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseNine" aria-expanded="true" aria-controls="collapseNine">
-          2021 / 2022 Semester 2 (Tentative)
+          2021 / 2022 Semester 2
         </button>
       </h5>
     </div>
@@ -42,8 +42,10 @@ My interests are in Software Engineering and Artifical Intelligence.
       <div class="card-body">
          <ol>
           <li><strong>CP4101</strong>: B.Comp. Dissertation</li>
+          <li><strong>CS3223</strong>: Database Systems Implementation</li>
           <li><strong>CS4225</strong>: Big Data Systems For Data Science</li>
           <li><strong>CS4231</strong>: Parallel And Distributed Algorithms</li>
+          <li><strong>CS5224</strong>: Cloud Computing</li>
         </ol>
         <h4>Teaching Assistant Roles:</h4>
         <ol>
