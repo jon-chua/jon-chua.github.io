@@ -9,9 +9,11 @@ weight: 3
 
 Hi I am **{{ site.author.name }}**!<br>
 
-I am currently a final year student studying Computer Science in National University of Singapore (NUS).
+I am currently a Software Engineer at Alphalab Capital.
 
-My interests are in Software Engineering and Artifical Intelligence.
+I studied Computer Science in National University of Singapore (NUS).
+
+<!-- My interests are in Software Engineering and Artifical Intelligence. -->
 
 <!-- <div class="row">
 {% include about/skills.html title="Programming Skills" source=site.data.programming-skills %}
